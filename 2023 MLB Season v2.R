@@ -96,8 +96,8 @@ regular_season$expected_wins <- round(regular_season$expected_win_pct*regular_se
 
 regular_season$expected_losses <- round(regular_season$games - regular_season$expected_wins, 0)
 
-regular_season$performance <- ifelse(regular_season$w - regular_season$expected_wins >= 2, "Under expectations",
-                                     ifelse(regular_season$w - regular_season$expected_wins <= -2, "Above expectations",
+regular_season$performance <- ifelse(regular_season$w - regular_season$expected_wins >= 2, "Above expectations",
+                                     ifelse(regular_season$w - regular_season$expected_wins <= -2, "Below expectations",
                                             "Within expectations"))
 
 
