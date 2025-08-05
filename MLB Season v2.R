@@ -7,7 +7,7 @@
 # Purpose: Taking regular season data and using Pythagorean Expectations 
 # to create an analysis of performance.
 
-# This is version 3 of my R script, which now reads data from the ESPN website.
+# This is version 2 of my R script, which now reads data from the ESPN website.
 # Webscraping is more efficient than doing copypasta into a spreadsheet.  Also,
 # this is built off of my earlier iterations that I used during the 2023 MLB
 # season.
