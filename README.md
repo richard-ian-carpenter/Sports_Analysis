@@ -2,6 +2,8 @@
 
 This repository will hold any code and additional information that I use for sports analytics.
 
+**UPDATE 10 Aug 2025:** Added a `Python` script. Trying to duplicate work done in `R`.
+
 **UPDATE 04 Aug 2025:** Running the `MLB Season v2.R` script for the current season. Minor update due to Athletics baseball team moving to Las Vegas.  ESPN data does not have an abbreviation for the team yet, so I used "LV", similar to the Raiders (NFL).  
 Also working on a Python equivalent.  Work will be done using R (RStudio & Positron) and Python (Positron).  
 Also added the package `openxlsx2` since its predecessor `openxlsx` has been depricated by its developer.
