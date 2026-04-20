@@ -2,8 +2,6 @@
 
 This repository will hold any code and additional information that I use for sports analytics.
 
-**UPDATE 19 Apr 2026:** Adding `MLB Season v4.R` to the repository. Other than using the latest version of `R` (4.5.3) and RStudio (2026.01.2 Build 418), no major changes have occured.
-
 **UPDATE 10 Aug 2025:** Added a `Python` script. Trying to duplicate work done in `R`.
 
 **UPDATE 04 Aug 2025:** Running the `MLB Season v2.R` script for the current season. Minor update due to Athletics baseball team moving to Las Vegas.  ESPN data does not have an abbreviation for the team yet, so I used "LV", similar to the Raiders (NFL).  
